@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/code/unb-sc-proj2/build",
+  "command": "/usr/bin/c++ -DPROJECT_DIR=/mnt/c/code/unb-sc-proj2  -g -o CMakeFiles/aes.dir/aes.cpp.o -c /mnt/c/code/unb-sc-proj2/aes.cpp",
+  "file": "/mnt/c/code/unb-sc-proj2/aes.cpp"
+},
+{
+  "directory": "/mnt/c/code/unb-sc-proj2/build",
+  "command": "/usr/bin/c++ -DPROJECT_DIR=/mnt/c/code/unb-sc-proj2  -g -o CMakeFiles/aes.dir/main.cpp.o -c /mnt/c/code/unb-sc-proj2/main.cpp",
+  "file": "/mnt/c/code/unb-sc-proj2/main.cpp"
+}
+]

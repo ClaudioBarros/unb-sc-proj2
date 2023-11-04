@@ -1,0 +1,3 @@
+/mnt/c/code/unb-sc-proj2/build/CMakeFiles/aes.dir
+/mnt/c/code/unb-sc-proj2/build/CMakeFiles/edit_cache.dir
+/mnt/c/code/unb-sc-proj2/build/CMakeFiles/rebuild_cache.dir
