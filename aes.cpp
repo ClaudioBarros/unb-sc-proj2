@@ -663,9 +663,9 @@ void aes128_ecb_dec(U128* in,
 
     uint n = sizeBytes / 16;
 
-    for(uint i = 0; i < n; i+=n)
+    for(uint i = 0; i < n; i+=1)
     {
-        aes128Inv(in+i, out+i, key);
+        aes128Inv(&in[i], &out[i], key);
     }
 }
 
