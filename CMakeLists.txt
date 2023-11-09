@@ -8,6 +8,7 @@ project ("aes")
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} "${CMAKE_SOURCE_DIR}/cmake/")
 
+
 #set compiler preprocessor definitions
 add_compile_definitions(PROJECT_DIR=${CMAKE_SOURCE_DIR})
 
@@ -16,6 +17,7 @@ add_compile_definitions(PROJECT_DIR=${CMAKE_SOURCE_DIR})
 set(SRC_FILES
     "aes.cpp"
     "main.cpp"
+    "tests.cpp"
     )
 
 add_executable (aes ${SRC_FILES})
